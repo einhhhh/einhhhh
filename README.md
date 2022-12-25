@@ -2,4 +2,4 @@
 
 - 👀 Graduate@Fudan
 - 🌱 Web Security
-- 🐔 Researcher on Java Sec
+- 🐔 Doing research on Java Sec
